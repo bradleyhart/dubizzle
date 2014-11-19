@@ -25,9 +25,6 @@ class DubizzleShould extends GebSpec {
          * This is all I can automate as I have no control over the data that in the database.
          *
          * Normally I would setup the data first in the test so that I can have clear an predictable expectations.
-         *
-         * Also the markup is not very testable, it is best for the testers, devs, and UI people all to work
-         * together to ensure clean and testable markup.
          */
     }
 
